@@ -1,0 +1,28 @@
+/* Nav-Bar da bulunan kırmızı Müzik Dükkanım linki */
+.navbar-brand {
+      word-spacing: normal;
+      font-size: 20px;
+      color: red;     
+}
+/* Nav-Bar ana sayfa hakkımızda ve ürünlerimiz linkleri */
+.nav-link {
+      color: white;
+}
+/* Ana sayfa gövde kısmı. Sitede bulunan müzik aletleri */
+.jumbotron {
+      text-align: center;
+}
+/* Ana sayfa gövde kısmı. müzik aletleri listesi madde işaretlerini içeri almak için kullanıldı */
+.list-styled {
+      list-style: inside;
+      padding-right: 20px;
+}
+/* Ana sayfa Merhaba yazısı */
+.hello {
+      color: red;
+      margin-top:10px
+}
+/* sitede bulunan müzik aletleri yazısı */
+.alet {
+      color: brown;
+}
